@@ -35,27 +35,6 @@ Pivot Tables
 Data Cleaning & Transformation
 Data Visualization
 Business Intelligence (BI)
-📂 Repository Structure
-Haw-Travels-Data-Analyst-Internship/
-│
-├── 📁 Dataset/
-│   └── Travel_Bookings.xlsx
-│
-├── 📁 PowerBI/
-│   └── Haw_Travels_Dashboard.pbix
-│
-├── 📁 Documentation/
-│   ├── Internship_Report.pdf
-│   └── Daily_Work_Log.pdf
-│
-├── 📁 Presentations/
-│   └── Internship_Presentation.pdf
-│
-├── 📁 Screenshots/
-│   └── Dashboard.png
-│
-└── README.md
-📊 Dataset
 
 The project uses a travel booking dataset containing 200 booking records.
 
